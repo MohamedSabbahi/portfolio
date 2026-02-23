@@ -36,16 +36,21 @@ export default function Hero() {
                 </h1>
 
                 <p className={`fade-up fade-up-delay-2 ${styles.title}`}>
-                    Full Stack Developer
+                    Software Engineer
                     <span className={styles.divider}>|</span>
-                    Mobile Dev
+                    Aspiring Cloud Professional
                     <span className={styles.divider}>|</span>
-                    Cloud &amp; AI Enthusiast
+                    Mobile &amp; AI
                 </p>
 
                 <p className={`fade-up fade-up-delay-3 ${styles.tagline}`}>
-                    Converting complex problems into clean code.
+                    Building robust full-stack applications and expanding my expertise in backend architecture.
                 </p>
+
+                <div className={`fade-up fade-up-delay-3 ${styles.availabilityBadge}`}>
+                    <span className={styles.badgeDot} />
+                    🎓 Graduating June 2026 · Open to Opportunities
+                </div>
 
                 <div className={`fade-up fade-up-delay-4 ${styles.actions}`}>
                     <a href="#projects" className="btn btn-primary">

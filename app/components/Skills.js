@@ -12,11 +12,10 @@ const skillCategories = [
             </svg>
         ),
         skills: [
-            { name: "React", level: 60 },
-            { name: "React Native", level: 45 },
-            { name: "Next.js", level: 35 },
-            { name: "HTML/CSS", level: 65 },
-            { name: "JavaScript", level: 65 },
+            { name: "React Native Core", level: 75 },
+            { name: "Mobile UI & Styling (NativeWind)", level: 85 },
+            { name: "Navigation (React Navigation)", level: 80 },
+            { name: "State Mgmt & API Integration", level: 80 },
         ],
     },
     {
