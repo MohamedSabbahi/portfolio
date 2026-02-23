@@ -18,7 +18,7 @@ export default function Footer() {
 
                 <div className={styles.socials}>
                     <a
-                        href="https://www.linkedin.com/in/mohamed-sabbahi-"
+                        href="https://www.linkedin.com/in/mohamed-sabbahi-00562a355/"
                         target="_blank"
                         rel="noopener noreferrer"
                         className={styles.socialBtn}

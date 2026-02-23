@@ -40,7 +40,7 @@ export default function Contact() {
                         </a>
 
                         <a
-                            href="https://www.linkedin.com/in/mohamed-sabbahi-"
+                            href="https://www.linkedin.com/in/mohamed-sabbahi-00562a355/"
                             target="_blank"
                             rel="noopener noreferrer"
                             className={`fade-up fade-up-delay-1 glass-card ${styles.contactCard}`}
